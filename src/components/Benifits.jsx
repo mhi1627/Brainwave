@@ -4,6 +4,7 @@ import {benefits} from '../constants'
 import Heading from "./Heading";
 import ClipPath from "../assets/svg/ClipPath";
 import Arrow from "../assets/svg/Arrow";
+ 
 
 export default function Benifits() {
   return (
